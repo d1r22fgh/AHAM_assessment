@@ -1,0 +1,23 @@
+{
+    "1": {
+        "id": 1,
+        "email": "testing@1.com",
+        "name": "test1",
+        "password": "$2b$12$owcg4XxbhVKzmHXaq4fTTumc8BuIo2aMC6n33cvKg7cVb3TsM1slu",
+        "created_at": "2024-06-15 07:38:22.649156"
+    },
+    "2": {
+        "id": 2,
+        "email": "testing@2.com",
+        "name": "test2",
+        "password": "$2b$12$XGdBTAR5Rv2MGD56jDfqQO5VuN47WbltCAyW4Z9hCicdKRsEXaESa",
+        "created_at": "2024-06-15 07:38:27.487132"
+    },
+    "3": {
+        "id": 3,
+        "email": "testing@3.com",
+        "name": "test3",
+        "password": "$2b$12$3jY5YKRJE2E.MssYUUkSM.4/dNfsnO0nhjeOQL8Ihu/hk/5BwZl3K",
+        "created_at": "2024-06-15 07:38:29.800553"
+    }
+}
